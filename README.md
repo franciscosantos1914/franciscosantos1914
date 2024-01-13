@@ -1,8 +1,8 @@
 ### Hi there. Thanks for visiting my github 👋
 
 I am Francisco dos Santos, a lover of code and busisness. I am a tech enthusiast & data structure lover. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-santos-222054210/)](https://www.linkedin.com/in/francisco-santos-222054210/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franciscosantosantonio138@gmail.com)](mailto:franciscosantosantonio138@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-FranciscoSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-santos-222054210/)](https://www.linkedin.com/in/francisco-santos-222054210/)
+[![Gmail Badge](https://img.shields.io/badge/-franciscosantosantonio138@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franciscosantosantonio138@gmail.com)](mailto:franciscosantosantonio138@gmail.com)
 
 ## ⚡ Technologies
 
