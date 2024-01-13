@@ -25,3 +25,4 @@ I am Francisco dos Santos, a lover of code and busisness. I am a tech enthusiast
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Angular](https://img.shields.io/badge/-Angular-181717?style=flat-square&logo=angular)
