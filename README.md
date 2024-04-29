@@ -1,39 +1,21 @@
 ### Hi there. Thanks for visiting my github 👋
 
-🚀 Passionate Software Engineer | Full Stack Developer | Technology Enthusiast
+🚀 Software Engineer | Technology Enthusiast
 
-Greetings Dear Reader! My name is Francisco dos Santos.
-
-I'm a results-driven Software Engineer with a strong background in building robust and scalable applications. My expertise lies in a wide range of technologies, including JavaScript (Node.js, AdonisJS, Angular, React.js, Vue.js), Flutter, Go Language, and Java.
+My name is Francisco dos Santos.
 
 👨‍💻 Tech Stack:
-
 Languages: JavaScript, Go, Java
-Frameworks: Node.js, AdonisJS, Angular, React.js, Vue.js, Spring Boot
-Mobile Development: Flutter
-Architectural Patterns: DDD (Domain-Driven Design), TDD (Test-Driven Development), Clean Architecture
-Version Control: Git
-Message Brokers: RabbitMQ
-Containerization: Docker
-Databases: MySQL, PostgreSQL, SQLite3, Redis, MemCached, InfluxDB and Telegraf
-Protocols: TCP, UDP, HTTP, MQTT, etc.
+Frameworks: Node.js, AdonisJS, Angular and React.js
+Databases: MySQL, PostgreSQL, Redis and InfluxDB
 
 🛠️ Key Skills:
-
 Experienced in designing and implementing scalable and maintainable software solutions.
-Proficient in utilizing DDD and TDD principles for building robust applications.
-Experienced in architecting applications with a focus on Clean Architecture.
-Adept at version control with Git, ensuring efficient collaboration and code management.
-Skilled in implementing asynchronous communication with RabbitMQ and MQTT.
-Well-versed in containerization using Docker for seamless development.
 
-🌐 Passionate about Technology:
-I am deeply committed to staying at the forefront of technological advancements. My curiosity drives me to explore emerging trends and incorporate innovative solutions into my work.
+📬 Feel free to reach out:
 
-🌟 Why Work With Me:
-I thrive in dynamic and collaborative environments, consistently delivering high-quality software solutions. My dedication to best practices and continuous learning ensures that I stay ahead in the ever-evolving world of software development.
-
-Let's connect and explore the possibilities of creating impactful software together!
+Email: franciscosantosantonio138@gmail
+GitHub: https://github.com/franciscosantos1914
 
 [![Linkedin Badge](https://img.shields.io/badge/-FranciscoSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-santos-222054210/)](https://www.linkedin.com/in/francisco-santos-222054210/)
 [![Gmail Badge](https://img.shields.io/badge/-franciscosantosantonio138@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franciscosantosantonio138@gmail.com)](mailto:franciscosantosantonio138@gmail.com)
