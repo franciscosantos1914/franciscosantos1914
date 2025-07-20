@@ -14,11 +14,7 @@ Experienced in designing and implementing scalable and maintainable software sol
 
 📬 Feel free to reach out:
 
-Email: franciscosantosantonio138@gmail
 GitHub: https://github.com/franciscosantos1914
-
-[![Linkedin Badge](https://img.shields.io/badge/-FranciscoSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-santos-222054210/)](https://www.linkedin.com/in/francisco-santos-222054210/)
-[![Gmail Badge](https://img.shields.io/badge/-franciscosantosantonio138@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franciscosantosantonio138@gmail.com)](mailto:franciscosantosantonio138@gmail.com)
 
 ## ⚡ Technologies
 
